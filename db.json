@@ -1,255 +1,203 @@
 {
-  "users": [
+  "products": [
     {
-      "name": "Hrithic Raj",
-      "email": "hrj@gmail.com",
-      "username": "hrj",
-      "password": "hrj",
-      "id": "fdb2",
-      "role": "admin",
-      "block": false
-    },
-    {
-      "name": "Abhay pc",
-      "email": "abhay@gmail.com",
-      "username": "abhay",
-      "password": "abhay",
-      "id": "99e0",
-      "role": "user",
-      "block": false,
-      "cart": [
-        {
-          "id": "00001",
-          "name": "Apple iPhone 15 Pro max",
-          "description": "The latest iPhone with A17 Bionic chip, 6.1-inch Super Retina XDR display, and dynamic island.",
-          "price": 119900,
-          "quantity": 1,
-          "image": "https://m.media-amazon.com/images/I/81c50PU+lpL._AC_UY327_FMwebp_QL65_.jpg"
-        },
-        {
-          "id": "00002",
-          "name": "Samsung Galaxy S23 Ultra",
-          "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-          "price": 76999,
-          "quantity": 2,
-          "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg"
-        }
+      "id": "1",
+      "name": "iPhone 16 Pro Max",
+      "image": "https://www.91-img.com/pictures/152869-v4-apple-iphone-16-pro-max-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://www.istore.co.za/media/catalog/product/cache/4ebc814e413626645aa42e369230a31f/i/p/iphone_16_pro_max_desert_titanium_pdp_image_position_1__gben_2.png",
+      "price": 105999,
+      "specifications": [
+        "iPhone 16 Pro Max 256 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium"
       ]
     },
     {
-      "name": "muhsin",
-      "email": "muhsin@gmail.com",
-      "username": "muhsin",
-      "password": "muhsin",
-      "id": "fr34",
-      "role": "user",
-      "block": false,
-      "cart": [
-        {
-          "id": "00004",
-          "name": "Google Pixel 8 5G",
-          "description": "Powered by Google Tensor G3, with AI-powered photography and clean Android experience.",
-          "price": 56399,
-          "image": "https://m.media-amazon.com/images/I/51x3Qb8-Y+L._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 2
-        },
-        {
-          "id": "00002",
-          "name": "Samsung Galaxy S23 Ultra",
-          "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-          "price": 76999,
-          "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 2
-        },
-        {
-          "id": "00009",
-          "name": "Motorola Edge 50 Pro",
-          "description": "Slim and powerful device with Snapdragon 8 Gen 2, edge-to-edge pOLED display, and IP68 rating.",
-          "price": 32799,
-          "image": "https://m.media-amazon.com/images/I/715aoVxQNTL._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 1
-        }
+      "id": "2",
+      "name": "Redmi Note 14 5G",
+      "image": "https://www.91-img.com/pictures/154781-v4-xiaomi-redmi-note-14-pro-plus-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://m.media-amazon.com/images/I/71+QToFrHXL._SL1500_.jpg",
+      "price": 21999,
+      "specifications": [
+        "Redmi Note 14 5G (Titan Black, 8GB RAM 256GB Storage) | Global Debut MTK Dimensity 7025 Ultra | 2100 nits Segment Brightest 120Hz AMOLED | 50MP Sony LYT 600 OIS+EIS Triple Camera"
       ]
     },
     {
-      "id": "a5d6",
-      "name": "rex",
-      "username": "rex",
-      "email": "rex@gmail.com",
-      "password": "rex",
-      "role": "user",
-      "block": false,
-      "cart": [
-        {
-          "id": "00002",
-          "name": "Samsung Galaxy S23 Ultra",
-          "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-          "price": 76999,
-          "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 2
-        },
-        {
-          "id": "00003",
-          "name": "OnePlus 12",
-          "description": "Fast and smooth performance with Snapdragon 8 Gen 3, 120Hz AMOLED display, and Hasselblad cameras.",
-          "price": 63999,
-          "image": "https://m.media-amazon.com/images/I/61BAuSC0UnL._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 1
-        },
-        {
-          "id": "00008",
-          "name": "Motorola razr 50",
-          "description": "3.6 External AMOLED Display, 6.9 AMOLED 120Hz Display, 32MP Selfie Camera.",
-          "price": 54999,
-          "image": "https://m.media-amazon.com/images/I/71AGGURIh8L._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 1
-        },
-        {
-          "id": "00007",
-          "name": "Samsung Galaxy S24 FE",
-          "description": "Premium device with 4K OLED display, Exynos 3110, and professional-grade cameras.",
-          "price": 54688,
-          "image": "https://m.media-amazon.com/images/I/717gvwQRw7L._AC_UY327_FMwebp_QL65_.jpg  ",
-          "quantity": 1
-        }
+      "id": "3",
+      "name": "iQOO 13 5G",
+      "image": "https://www.91-img.com/pictures/154839-v8-iqoo-13-5g-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://m.media-amazon.com/images/I/51jAxBrJCtL._SX569_.jpg",
+      "price": 39999,
+      "specifications": [
+        "iQOO 13 5G (Legend, 12GB RAM, 256GB Storage) | Pro-Level Hasselblad Camera System: -Primary 50MP Sony's LYT-808 with OIS - 64 MP 3X Periscope Telephoto for studio-level portraits - 48 MP Ultra-wide 114° Fov"
       ]
     },
     {
-      "id": "318f",
-      "name": "koru",
-      "username": "koru",
-      "email": "koru",
-      "password": "koru",
-      "role": "user",
-      "block": false,
-      "cart": [
-        {
-          "id": "00011",
-          "name": "Nothing Phone 2",
-          "description": "Minimalistic design with Snapdragon 8+ Gen 1, Glyph Interface, and OLED display.",
-          "price": 45650,
-          "image": "https://m.media-amazon.com/images/I/819VAShnDpL._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 1
-        }
+      "id": "4",
+      "name": "OnePlus 12 5G",
+      "image": "https://www.91-img.com/pictures/154779-v4-oneplus-13-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://rukminim2.flixcart.com/image/720/864/xif0q/mobile/s/r/r/12-5g-op12-5g-oneplus-original-imagxgt7uwerszh8.jpeg?q=60&crop=false",
+      "price": 58999,
+      "specifications": [
+        "OnePlus 12 (Flowy Emerald, 12GB RAM, 256GB Storage) |  flagship smartphone that combines cutting-edge technology with sleek design | It features a 6.82-inch LTPO AMOLED display with a resolution of 3168x1440 pixels, offering vibrant visuals and a dynamic refresh rate ranging from 1 to 120 Hz for smooth scrolling and responsiveness. "
       ]
+    },
+    {
+      "id": "5",
+      "name": "Vivo X200 Pro",
+      "image": "https://www.91-img.com/pictures/165354-v3-vivo-x200-pro-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://m.media-amazon.com/images/I/71chuQByj0L._AC_UF1000,1000_QL80_.jpg",
+      "price": 59999,
+      "specifications": [
+        "Vivo X200 Pro 5G (Titanium Grey, 16GB RAM, 512GB Storage)  | LPDDR5X | UFS 4.0|Battery: 6000 mAh Battery | Semi-Solid State Battery|Fast Charging: 90W Flash Charge"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "OPPO Find X8 Pro",
+      "image": "https://www.91-img.com/pictures/165498-v3-oppo-find-x8-pro-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://www.91-img.com/pictures/165498-v3-oppo-find-x8-pro-mobile-phone-large-3.jpg",
+      "price": 69999,
+      "specifications": [
+        "OPPO Find X8 Pro | Octa core (3.63 GHz, Single Core + 3.3 GHz, Tri core + 2.4 GHz, Quad core)MediaTek Dimensity 940016 GB RAM | Battery5910 mAhSuper VOOC ChargingUSB Type-C Port"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Samsung Galaxy S24 FE",
+      "image": "https://www.91-img.com/pictures/156667-v4-samsung-galaxy-s24-fe-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://m.media-amazon.com/images/I/717gvwQRw7L._SX569_.jpg",
+      "price": 79999,
+      "specifications": [
+        "Samsung Galaxy S24 FE 5G AI Smartphone (Blue, 8GB RAM, 256GB Storage) | Large 6.7 FHD+ Dynamic AMOLED 2X display for an immersive viewing experience"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "POCO F6 ",
+      "image": "https://www.91-img.com/pictures/153078-v3-poco-f6-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://mobitez.in/wp-content/uploads/2024/05/Poco-F6-5G-Black.webp",
+      "price": 29999,
+      "specifications": [
+        "12 GB RAM | 256 GB ROM 16.94 cm (6.67 inch) Display 50MP (OIS) + 8MP | 20MP Front Camera | 5000 mAh Battery 8s Gen3 Processor | 1.5K 120Hz AMOLED Display with Dolby Vision | 68 billion+ colors |  2400 Nits Peak Brightness | In-Display Fingerprint"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Infinix GT 20 Pro 5G",
+      "image": "https://www.devicespecifications.com/images/model/1d5e5fd1/640/main.jpg",
+      "detailsImage": "https://m.media-amazon.com/images/I/61QXkKrARpL.jpg",
+      "price": 35000,
+      "specifications": [
+        "Infinix GT 20 Pro 5G (Mecha Blue, 8GB RAM, 256GB Storage) | Up to 16GB Extented RAM | 6.78 AMOLED Display | 108MP+2MP+2MP | 32MP Front Camera | MediaTek Dimensity 8200 Processor | 45W Fast Charging"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Moto G45 5G",
+      "image": "https://www.91-img.com/pictures/164080-v2-moto-g45-5g-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://m.media-amazon.com/images/I/81dl4dQY3BL._SL1500_.jpg",
+      "price": 54000,
+      "specifications": [
+        "Motorola G45 5G (Brilliant Blue, 8GB RAM, 128GB Storage) |  a powerful smartphone designed for those who demand speed | efficiency | and superior performance."
+      ]
+    },
+    {
+      "id": "2d2e",
+      "name": "vivo V40 ",
+      "price": "49999",
+      "specifications": "8 GB RAM | 128 GB ROM | 17.22 cm (6.78 inch) Full HD+ Display | 50MP + 50MP | 50MP Front Camera | 5500 mAh Battery | Snapdragon 7 Gen 3 Processor",
+      "image": "https://www.91-img.com/pictures/163096-v5-vivo-v40-mobile-phone-large-1.jpg?tr=q-80",
+      "detailsImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/b/c/y/-original-imah3hvkuw8k7hcw.jpeg?q=90&crop=false"
     }
   ],
-  "mobiles": [
+  "users": [
     {
-      "id": "00001",
-      "name": "Apple iPhone 15 Pro max",
-      "description": "The latest iPhone with A17 Bionic chip, 6.1-inch Super Retina XDR display, and dynamic island.",
-      "price": 119900,
-      "image": "https://m.media-amazon.com/images/I/81c50PU+lpL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "1",
+      "name": "john_doe",
+      "email": "john_doe@gmail.com",
+      "password": "password123",
+      "role": "admin"
     },
     {
-      "id": "00002",
-      "name": "Samsung Galaxy S23 Ultra",
-      "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-      "price": 76999,
-      "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "2e59",
+      "name": "Najiya",
+      "email": "najiya@gmail.com",
+      "password": "456789",
+      "role": "user",
+      "blocked": false,
+      "cart": [
+        {
+          "id": "1",
+          "name": "iPhone 16 Pro Max",
+          "image": "https://www.91-img.com/pictures/152869-v4-apple-iphone-16-pro-max-mobile-phone-large-1.jpg?tr=q-80",
+          "detailsImage": "https://www.istore.co.za/media/catalog/product/cache/4ebc814e413626645aa42e369230a31f/i/p/iphone_16_pro_max_desert_titanium_pdp_image_position_1__gben_2.png",
+          "price": 105999,
+          "specifications": [
+            "iPhone 16 Pro Max 256 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Desert Titanium"
+          ],
+          "qty": 1
+        }
+      ]
     },
     {
-      "id": "00003",
-      "name": "OnePlus 12",
-      "description": "Fast and smooth performance with Snapdragon 8 Gen 3, 120Hz AMOLED display, and Hasselblad cameras.",
-      "price": 63999,
-      "image": "https://m.media-amazon.com/images/I/61BAuSC0UnL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "daa2",
+      "name": "Fathima Fidha C P",
+      "email": "fidha@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "blocked": false,
+      "cart": []
     },
     {
-      "id": "00004",
-      "name": "Google Pixel 8 5G",
-      "description": "Powered by Google Tensor G3, with AI-powered photography and clean Android experience.",
-      "price": 56399,
-      "image": "https://m.media-amazon.com/images/I/51x3Qb8-Y+L._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "f2b3",
+      "name": "Sameeha",
+      "email": "sameeha@gmail.com",
+      "password": "456",
+      "role": "user",
+      "blocked": false
     },
     {
-      "id": "00005",
-      "name": "Xiaomi 14",
-      "description": "Flagship device with Leica optics, Snapdragon 8 Gen 2, and ceramic body design.",
-      "price": 49998,
-      "image": "https://m.media-amazon.com/images/I/71MsYJjQhBL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "057f",
+      "name": "Lamiya",
+      "email": "lamiya@gmail.com",
+      "password": "4567",
+      "role": "user",
+      "blocked": false
     },
     {
-      "id": "00006",
-      "name": "Realme GT 7 pro",
-      "description": "High-performance gaming phone with 240W fast charging and AMOLED display.",
-      "price": 59998,
-      "image": "https://m.media-amazon.com/images/I/612IqV1YEjL._AC_UY327_FMwebp_QL65_.jpg"
-    },
-    {
-      "id": "00007",
-      "name": "Samsung Galaxy S24 FE",
-      "description": "Premium device with 4K OLED display, Exynos 3110, and professional-grade cameras.",
-      "price": 54688,
-      "image": "https://m.media-amazon.com/images/I/717gvwQRw7L._AC_UY327_FMwebp_QL65_.jpg  "
-    },
-    {
-      "id": "00008",
-      "name": "Motorola razr 50",
-      "description": "3.6 External AMOLED Display, 6.9 AMOLED 120Hz Display, 32MP Selfie Camera.",
-      "price": 54999,
-      "image": "https://m.media-amazon.com/images/I/71AGGURIh8L._AC_UY327_FMwebp_QL65_.jpg"
-    },
-    {
-      "id": "00009",
-      "name": "Motorola Edge 50 Pro",
-      "description": "Slim and powerful device with Snapdragon 8 Gen 2, edge-to-edge pOLED display, and IP68 rating.",
-      "price": 32799,
-      "image": "https://m.media-amazon.com/images/I/715aoVxQNTL._AC_UY327_FMwebp_QL65_.jpg"
-    },
-    {
-      "id": "00010",
-      "name": "Vivo X90 Pro",
-      "description": "Photography-focused device with Zeiss lenses, MediaTek Dimensity 9200, and 1-inch camera sensor.",
-      "price": 53749,
-      "image": "https://m.media-amazon.com/images/I/71Mc1FdLrWL._AC_UY327_FMwebp_QL65_.jpg"
-    },
-    {
-      "id": "00011",
-      "name": "Nothing Phone 2",
-      "description": "Minimalistic design with Snapdragon 8+ Gen 1, Glyph Interface, and OLED display.",
-      "price": 45650,
-      "image": "https://m.media-amazon.com/images/I/819VAShnDpL._AC_UY327_FMwebp_QL65_.jpg"
-    },
-    {
-      "id": "00012",
-      "name": "iPhone 16 128 GB",
-      "description": "5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life.",
-      "price": 77400,
-      "image": "https://m.media-amazon.com/images/I/61lLjrvDEkL._AC_UY327_FMwebp_QL65_.jpg"
+      "id": "77f3",
+      "name": "Hana",
+      "email": "hana@gmail.com",
+      "password": "7894",
+      "role": "user",
+      "blocked": true
     }
   ],
   "orders": [
     {
-      "id": 876867565675,
-      "userId": "99e0",
-      "products": [
+      "id": "d228",
+      "userId": "daa2",
+      "userName": "Fathima Fidha C P",
+      "items": [
         {
-          "id": "00001",
-          "name": "Apple iPhone 15 Pro max",
-          "description": "The latest iPhone with A17 Bionic chip, 6.1-inch Super Retina XDR display, and dynamic island.",
-          "price": 119900,
-          "image": "https://m.media-amazon.com/images/I/81c50PU+lpL._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 1
-        },
-        {
-          "id": "00002",
-          "name": "Samsung Galaxy S23 Ultra",
-          "description": "Flagship device with Snapdragon 8 Gen 2, 200 MP camera, and 5000mAh battery.",
-          "price": 76999,
-          "image": "https://m.media-amazon.com/images/I/71goZuIha-L._AC_UY327_FMwebp_QL65_.jpg",
-          "quantity": 2
+          "id": "5",
+          "name": "Vivo X200 Pro",
+          "image": "https://www.91-img.com/pictures/165354-v3-vivo-x200-pro-mobile-phone-large-1.jpg?tr=q-80",
+          "detailsImage": "https://m.media-amazon.com/images/I/71chuQByj0L._AC_UF1000,1000_QL80_.jpg",
+          "price": 59999,
+          "specifications": [
+            "Vivo X200 Pro 5G (Titanium Grey, 16GB RAM, 512GB Storage)  | LPDDR5X | UFS 4.0|Battery: 6000 mAh Battery | Semi-Solid State Battery|Fast Charging: 90W Flash Charge"
+          ],
+          "qty": 1
         }
       ],
-      "totalAmount": 119900,
-      "date": "24-04-2024",
-      "paymentMethode": "COD",
-      "deliveryAddress": {
-        "name": "Abhay pc",
-        "address": "Ramanattukara",
-        "mobile": 987987995556
-      }
+      "total": 59999,
+      "paymentMethod": "Google Pay",
+      "address": {
+        "name": "Fathima Fidha C P",
+        "place": "Olippuram Kadavu",
+        "number": "9633452534"
+      },
+      "date": "2024-12-24T08:48:21.658Z"
     }
   ]
 }
